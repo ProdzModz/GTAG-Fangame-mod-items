@@ -1,0 +1,27 @@
+-- Place this LocalScript inside StarterPlayerScripts or StarterGui
+local part = workspace:FindFirstChild("Door") -- replace with your part's name
+
+if part then
+    part:Destroy() -- deletes the part only for this client
+end
+
+-- Place this LocalScript inside StarterPlayerScripts or StarterGui
+local part = workspace:FindFirstChild("Admin Door") -- replace with your part's name
+
+if part then
+    part:Destroy() -- deletes the part only for this client
+end
+
+-- Place this LocalScript inside StarterPlayerScripts or StarterGui
+local part = workspace:FindFirstChild("Zero presents 1") -- replace with your part's name
+
+if part then
+    part:Destroy() -- deletes the part only for this client
+end
+
+-- Place this LocalScript inside StarterPlayerScripts or StarterGui
+local part = workspace:FindFirstChild("Gamepass Only Door") -- replace with your part's name
+
+if part then
+    part:Destroy() -- deletes the part only for this client
+end
